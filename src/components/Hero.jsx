@@ -30,9 +30,9 @@ const Hero = () => (
 
         {/* Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-5">
-          <button className="w-full sm:w-auto bg-amber-600 text-white px-10 py-4.5 rounded-2xl font-extrabold hover:bg-amber-700 transition-all shadow-xl shadow-amber-200/50 active:scale-95">
+          <a href="#solutions" className="w-full sm:w-auto bg-amber-600 text-white px-10 py-4.5 rounded-2xl font-extrabold hover:bg-amber-700 transition-all shadow-xl shadow-amber-200/50 active:scale-95">
             Explore Solutions
-          </button>
+          </a>
           <button className="w-full sm:w-auto bg-slate-950 text-white px-10 py-4.5 rounded-2xl font-extrabold hover:bg-slate-800 transition-all shadow-lg active:scale-95">
             Our Process
           </button>
