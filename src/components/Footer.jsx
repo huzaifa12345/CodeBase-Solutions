@@ -5,7 +5,7 @@ const Footer = () => (
   <footer className="bg-slate-950 py-16 px-6 mt-20">
     <div className="max-w-7xl mx-auto">
       <div className="flex flex-col md:flex-row justify-between items-start gap-12 mb-16">
-        
+         
         {/* Brand Info */}
         <div className="max-w-sm">
           <div className="text-2xl font-black tracking-tighter text-white uppercase mb-6">
