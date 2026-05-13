@@ -17,7 +17,7 @@ const Footer = () => (
           </p>
           <div className="space-y-2">
             <p className="text-slate-500 text-[10px] font-black uppercase tracking-widest">Direct Line</p>
-            <p className="text-amber-500 font-bold text-sm">+92 320 6632665</p>
+            <p className="text-amber-500 font-bold text-sm">+92 339 0047304</p>
           </div>
         </div>
 
@@ -59,7 +59,7 @@ const Footer = () => (
         </div>
         
         <div className="flex flex-wrap justify-center gap-8">
-            <a href="https://wa.me/923206632665" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-green-500 text-[11px] font-black uppercase tracking-widest transition-colors">
+            <a href="https://wa.me/923390047304" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-green-500 text-[11px] font-black uppercase tracking-widest transition-colors">
               WhatsApp
             </a>
             <a href="https://www.instagram.com/codebase_solutions/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-amber-500 text-[11px] font-black uppercase tracking-widest transition-colors">
